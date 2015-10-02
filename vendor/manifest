@@ -1,0 +1,11 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/nickschuch/marco-lib",
+			"repository": "https://github.com/nickschuch/marco-lib",
+			"revision": "e2556e3a69f7257a26e8393be22bb65e7a951577",
+			"branch": "master"
+		}
+	]
+}
